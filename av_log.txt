@@ -1,0 +1,266 @@
+[2026-11-14 22:00:21] [МОНИТОРИНГ] Запущен.
+[2026-11-14 22:00:22] [ПАТРУЛЬ] Запущен.
+[2026-11-14 22:02:52] [МОНИТОРИНГ] Запущен.
+[2026-11-14 22:02:52] [ПАТРУЛЬ] Запущен.
+[2026-11-14 22:03:11] Сканирование: C:\Users\яна\Downloads
+[2026-11-14 22:03:26] Сканирование: C:\Users\яна\Desktop
+[2026-11-14 22:04:36] Сканирование: C:\Users\8ABF~1\AppData\Local\Temp
+[2026-11-14 22:04:37] Готово. Проверено файлов: 650, найдено: 12
+[2026-11-14 22:04:37] [КАРАНТИН] C:\Users\яна\Downloads\call-of-duty-modern-warfare-2_id4548518ids1s.exe -> quarantine\call-of-duty-modern-warfare-2_id4548518ids1s.exe.quarantined
+[2026-11-14 22:04:37] [КАРАНТИН] C:\Users\яна\Downloads\ndp48-x86-x64-allos-enu.exe -> quarantine\ndp48-x86-x64-allos-enu.exe.quarantined
+[2026-11-14 22:04:37] [КАРАНТИН] C:\Users\яна\Desktop\AnyDesk Soft upset load.exe -> quarantine\AnyDesk Soft upset load.exe.quarantined
+[2026-11-14 22:04:37] [КАРАНТИН] C:\Users\яна\Desktop\UniversalScanDriver_V1.02.19.exe -> quarantine\UniversalScanDriver_V1.02.19.exe.quarantined
+[2026-11-14 22:04:37] [КАРАНТИН] C:\Users\яна\Desktop\антивирус\dist\SuperAntivirus.exe -> quarantine\SuperAntivirus.exe.quarantined
+[2026-11-14 22:04:37] [КАРАНТИН] C:\Users\яна\Desktop\мои проекты\samsung-printer-installer.exe -> quarantine\samsung-printer-installer.exe.quarantined
+[2026-11-14 22:04:37] [КАРАНТИН] C:\Users\яна\Desktop\мои проекты\bin\d3dx9_31.dll -> quarantine\d3dx9_31.dll.quarantined
+[2026-11-14 22:04:37] [КАРАНТИН] C:\Users\яна\Desktop\мои проекты\bin\d3dx9_34.dll -> quarantine\d3dx9_34.dll.quarantined
+[2026-11-14 22:04:37] [КАРАНТИН] C:\Users\яна\Desktop\мои проекты\bin\protect.dll -> quarantine\protect.dll.quarantined
+[2026-11-14 22:04:37] [КАРАНТИН] C:\Users\яна\Desktop\мои проекты\bin\xrGame.dll -> quarantine\xrGame.dll.quarantined
+[2026-11-14 22:04:37] [КАРАНТИН] C:\Users\яна\Desktop\мои проекты\bin\XR_3DA.exe -> quarantine\XR_3DA.exe.quarantined
+[2026-11-14 22:04:37] [КАРАНТИН] C:\Users\яна\Desktop\мои проекты\bin\dedicated\XR_3DA.exe -> quarantine\XR_3DA.exe.quarantined
+[2026-11-14 22:05:00] Сканирование: C:\Users\яна\Downloads
+[2026-11-14 22:05:05] Сканирование: C:\Users\яна\Desktop
+[2026-11-14 22:08:22] Сканирование: C:\Users\8ABF~1\AppData\Local\Temp
+[2026-11-14 22:08:51] [?] Эвристика: C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-base-util-l1-1-0.dll
+[2026-11-14 22:08:51] [?] Эвристика: C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-com-l1-1-0.dll
+[2026-11-14 22:08:51] [?] Эвристика: C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-comm-l1-1-0.dll
+[2026-11-14 22:08:51] [?] Эвристика: C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-console-l1-1-0.dll
+[2026-11-14 22:08:51] [?] Эвристика: C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-datetime-l1-1-0.dll
+[2026-11-14 22:08:51] [?] Эвристика: C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-datetime-l1-1-1.dll
+[2026-11-14 22:08:51] [?] Эвристика: C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-debug-l1-1-0.dll
+[2026-11-14 22:08:51] [?] Эвристика: C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-debug-l1-1-1.dll
+[2026-11-14 22:08:51] [?] Эвристика: C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-delayload-l1-1-0.dll
+[2026-11-14 22:08:51] [?] Эвристика: C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-errorhandling-l1-1-0.dll
+[2026-11-14 22:08:51] [?] Эвристика: C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-errorhandling-l1-1-1.dll
+[2026-11-14 22:08:51] [?] Эвристика: C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-fibers-l1-1-0.dll
+[2026-11-14 22:08:51] [?] Эвристика: C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-fibers-l1-1-1.dll
+[2026-11-14 22:08:51] [?] Эвристика: C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-file-l1-1-0.dll
+[2026-11-14 22:08:51] [?] Эвристика: C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-file-l1-2-0.dll
+[2026-11-14 22:08:51] [?] Эвристика: C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-file-l1-2-1.dll
+[2026-11-14 22:08:51] [?] Эвристика: C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\API-MS-Win-core-file-l2-1-0.dll
+[2026-11-14 22:08:51] [?] Эвристика: C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\API-MS-Win-core-file-l2-1-1.dll
+[2026-11-14 22:08:51] [?] Эвристика: C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-handle-l1-1-0.dll
+[2026-11-14 22:08:51] [?] Эвристика: C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-heap-l1-1-0.dll
+[2026-11-14 22:08:51] [?] Эвристика: C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\API-MS-Win-Core-Heap-Obsolete-L1-1-0.dll
+[2026-11-14 22:08:51] [?] Эвристика: C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-interlocked-l1-1-0.dll
+[2026-11-14 22:08:51] [?] Эвристика: C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-io-l1-1-0.dll
+[2026-11-14 22:08:51] [?] Эвристика: C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-io-l1-1-1.dll
+[2026-11-14 22:08:51] [?] Эвристика: C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-kernel32-legacy-l1-1-0.dll
+[2026-11-14 22:08:51] [?] Эвристика: C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-kernel32-legacy-l1-1-1.dll
+[2026-11-14 22:08:51] [?] Эвристика: C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\API-MS-Win-Core-Kernel32-Private-L1-1-0.dll
+[2026-11-14 22:08:51] [?] Эвристика: C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\API-MS-Win-Core-Kernel32-Private-L1-1-1.dll
+[2026-11-14 22:08:51] [?] Эвристика: C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-libraryloader-l1-1-0.dll
+[2026-11-14 22:08:51] [?] Эвристика: C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-libraryloader-l1-1-1.dll
+[2026-11-14 22:08:51] [?] Эвристика: C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-localization-l1-2-0.dll
+[2026-11-14 22:08:51] [?] Эвристика: C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-localization-l1-2-1.dll
+[2026-11-14 22:08:51] [?] Эвристика: C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\API-MS-Win-core-localization-obsolete-l1-2-0.dll
+[2026-11-14 22:08:51] [?] Эвристика: C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-memory-l1-1-0.dll
+[2026-11-14 22:08:51] [?] Эвристика: C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-memory-l1-1-1.dll
+[2026-11-14 22:08:52] [?] Эвристика: C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-memory-l1-1-2.dll
+[2026-11-14 22:08:52] [?] Эвристика: C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-namedpipe-l1-1-0.dll
+[2026-11-14 22:08:52] [?] Эвристика: C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-privateprofile-l1-1-0.dll
+[2026-11-14 22:08:52] [?] Эвристика: C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-privateprofile-l1-1-1.dll
+[2026-11-14 22:08:52] [?] Эвристика: C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-processenvironment-l1-1-0.dll
+[2026-11-14 22:08:52] [?] Эвристика: C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-processenvironment-l1-2-0.dll
+[2026-11-14 22:08:52] [?] Эвристика: C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-processthreads-l1-1-0.dll
+[2026-11-14 22:08:52] [?] Эвристика: C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-processthreads-l1-1-1.dll
+[2026-11-14 22:08:52] [?] Эвристика: C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-processthreads-l1-1-2.dll
+[2026-11-14 22:08:52] [?] Эвристика: C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-processtopology-obsolete-l1-1-0.dll
+[2026-11-14 22:08:52] [?] Эвристика: C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-profile-l1-1-0.dll
+[2026-11-14 22:08:52] [?] Эвристика: C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-realtime-l1-1-0.dll
+[2026-11-14 22:08:52] [?] Эвристика: C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-registry-l1-1-0.dll
+[2026-11-14 22:08:52] [?] Эвристика: C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-registry-l2-1-0.dll
+[2026-11-14 22:08:52] [?] Эвристика: C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-rtlsupport-l1-1-0.dll
+[2026-11-14 22:08:52] [?] Эвристика: C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-shlwapi-legacy-l1-1-0.dll
+[2026-11-14 22:08:52] [?] Эвристика: C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-shlwapi-obsolete-l1-1-0.dll
+[2026-11-14 22:08:52] [?] Эвристика: C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-shutdown-l1-1-0.dll
+[2026-11-14 22:08:52] [?] Эвристика: C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-string-l1-1-0.dll
+[2026-11-14 22:08:52] [?] Эвристика: C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\API-MS-Win-core-string-l2-1-0.dll
+[2026-11-14 22:08:52] [?] Эвристика: C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\API-MS-Win-core-string-obsolete-l1-1-0.dll
+[2026-11-14 22:08:52] [?] Эвристика: C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-stringansi-l1-1-0.dll
+[2026-11-14 22:08:52] [?] Эвристика: C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-stringloader-l1-1-1.dll
+[2026-11-14 22:08:52] [?] Эвристика: C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-synch-l1-1-0.dll
+[2026-11-14 22:08:52] [?] Эвристика: C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-synch-l1-2-0.dll
+[2026-11-14 22:08:52] [?] Эвристика: C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-sysinfo-l1-1-0.dll
+[2026-11-14 22:08:52] [?] Эвристика: C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-sysinfo-l1-2-0.dll
+[2026-11-14 22:08:52] [?] Эвристика: C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-sysinfo-l1-2-1.dll
+[2026-11-14 22:08:52] [?] Эвристика: C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-threadpool-l1-2-0.dll
+[2026-11-14 22:08:52] [?] Эвристика: C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-threadpool-legacy-l1-1-0.dll
+[2026-11-14 22:08:52] [?] Эвристика: C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-threadpool-private-l1-1-0.dll
+[2026-11-14 22:08:52] [?] Эвристика: C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-timezone-l1-1-0.dll
+[2026-11-14 22:08:52] [?] Эвристика: C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-url-l1-1-0.dll
+[2026-11-14 22:08:52] [?] Эвристика: C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-util-l1-1-0.dll
+[2026-11-14 22:08:52] [?] Эвристика: C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-version-l1-1-0.dll
+[2026-11-14 22:08:52] [?] Эвристика: C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-wow64-l1-1-0.dll
+[2026-11-14 22:08:52] [?] Эвристика: C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-xstate-l1-1-0.dll
+[2026-11-14 22:08:52] [?] Эвристика: C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\API-MS-Win-core-xstate-l2-1-0.dll
+[2026-11-14 22:08:52] [?] Эвристика: C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\API-MS-Win-devices-config-L1-1-0.dll
+[2026-11-14 22:08:53] [?] Эвристика: C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\API-MS-Win-devices-config-L1-1-1.dll
+[2026-11-14 22:08:53] [?] Эвристика: C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\API-MS-Win-Eventing-ClassicProvider-L1-1-0.dll
+[2026-11-14 22:08:53] [?] Эвристика: C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-eventing-consumer-l1-1-0.dll
+[2026-11-14 22:08:53] [?] Эвристика: C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\API-MS-Win-Eventing-Controller-L1-1-0.dll
+[2026-11-14 22:08:53] [?] Эвристика: C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\API-MS-Win-Eventing-Legacy-L1-1-0.dll
+[2026-11-14 22:08:53] [?] Эвристика: C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\API-MS-Win-Eventing-Provider-L1-1-0.dll
+[2026-11-14 22:08:53] [?] Эвристика: C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\API-MS-Win-EventLog-Legacy-L1-1-0.dll
+[2026-11-14 22:08:53] [?] Эвристика: C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-security-cryptoapi-l1-1-0.dll
+[2026-11-14 22:08:53] [?] Эвристика: C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\API-MS-Win-Security-Lsalookup-L2-1-0.dll
+[2026-11-14 22:08:53] [?] Эвристика: C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\API-MS-Win-Security-Lsalookup-L2-1-1.dll
+[2026-11-14 22:08:53] [?] Эвристика: C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\API-MS-Win-security-lsapolicy-l1-1-0.dll
+[2026-11-14 22:08:53] [?] Эвристика: C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\API-MS-Win-security-provider-L1-1-0.dll
+[2026-11-14 22:08:53] [?] Эвристика: C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-security-sddl-l1-1-0.dll
+[2026-11-14 22:08:53] [?] Эвристика: C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-service-core-l1-1-0.dll
+[2026-11-14 22:08:53] [?] Эвристика: C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-service-core-l1-1-1.dll
+[2026-11-14 22:08:53] [?] Эвристика: C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-service-management-l1-1-0.dll
+[2026-11-14 22:08:53] [?] Эвристика: C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-service-management-l2-1-0.dll
+[2026-11-14 22:08:53] [?] Эвристика: C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-service-private-l1-1-0.dll
+[2026-11-14 22:08:53] [?] Эвристика: C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-service-private-l1-1-1.dll
+[2026-11-14 22:08:53] [?] Эвристика: C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-service-winsvc-l1-1-0.dll
+[2026-11-14 22:09:13] Сканирование: C:/btauzer 2
+[2026-11-14 22:09:23] Готово. Проверено файлов: 1914, найдено: 95
+[2026-11-14 22:09:23] [КАРАНТИН] C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-base-util-l1-1-0.dll -> quarantine\api-ms-win-base-util-l1-1-0.dll.quarantined
+[2026-11-14 22:09:23] [КАРАНТИН] C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-com-l1-1-0.dll -> quarantine\api-ms-win-core-com-l1-1-0.dll.quarantined
+[2026-11-14 22:09:23] [КАРАНТИН] C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-comm-l1-1-0.dll -> quarantine\api-ms-win-core-comm-l1-1-0.dll.quarantined
+[2026-11-14 22:09:23] [КАРАНТИН] C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-console-l1-1-0.dll -> quarantine\api-ms-win-core-console-l1-1-0.dll.quarantined
+[2026-11-14 22:09:23] [КАРАНТИН] C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-datetime-l1-1-0.dll -> quarantine\api-ms-win-core-datetime-l1-1-0.dll.quarantined
+[2026-11-14 22:09:23] [КАРАНТИН] C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-datetime-l1-1-1.dll -> quarantine\api-ms-win-core-datetime-l1-1-1.dll.quarantined
+[2026-11-14 22:09:23] [КАРАНТИН] C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-debug-l1-1-0.dll -> quarantine\api-ms-win-core-debug-l1-1-0.dll.quarantined
+[2026-11-14 22:09:23] [КАРАНТИН] C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-debug-l1-1-1.dll -> quarantine\api-ms-win-core-debug-l1-1-1.dll.quarantined
+[2026-11-14 22:09:23] [КАРАНТИН] C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-delayload-l1-1-0.dll -> quarantine\api-ms-win-core-delayload-l1-1-0.dll.quarantined
+[2026-11-14 22:09:23] [КАРАНТИН] C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-errorhandling-l1-1-0.dll -> quarantine\api-ms-win-core-errorhandling-l1-1-0.dll.quarantined
+[2026-11-14 22:09:23] [КАРАНТИН] C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-errorhandling-l1-1-1.dll -> quarantine\api-ms-win-core-errorhandling-l1-1-1.dll.quarantined
+[2026-11-14 22:09:23] [КАРАНТИН] C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-fibers-l1-1-0.dll -> quarantine\api-ms-win-core-fibers-l1-1-0.dll.quarantined
+[2026-11-14 22:09:23] [КАРАНТИН] C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-fibers-l1-1-1.dll -> quarantine\api-ms-win-core-fibers-l1-1-1.dll.quarantined
+[2026-11-14 22:09:23] [КАРАНТИН] C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-file-l1-1-0.dll -> quarantine\api-ms-win-core-file-l1-1-0.dll.quarantined
+[2026-11-14 22:09:23] [КАРАНТИН] C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-file-l1-2-0.dll -> quarantine\api-ms-win-core-file-l1-2-0.dll.quarantined
+[2026-11-14 22:09:23] [КАРАНТИН] C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-file-l1-2-1.dll -> quarantine\api-ms-win-core-file-l1-2-1.dll.quarantined
+[2026-11-14 22:09:23] [КАРАНТИН] C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\API-MS-Win-core-file-l2-1-0.dll -> quarantine\API-MS-Win-core-file-l2-1-0.dll.quarantined
+[2026-11-14 22:09:23] [КАРАНТИН] C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\API-MS-Win-core-file-l2-1-1.dll -> quarantine\API-MS-Win-core-file-l2-1-1.dll.quarantined
+[2026-11-14 22:09:23] [КАРАНТИН] C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-handle-l1-1-0.dll -> quarantine\api-ms-win-core-handle-l1-1-0.dll.quarantined
+[2026-11-14 22:09:23] [КАРАНТИН] C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-heap-l1-1-0.dll -> quarantine\api-ms-win-core-heap-l1-1-0.dll.quarantined
+[2026-11-14 22:09:23] [КАРАНТИН] C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\API-MS-Win-Core-Heap-Obsolete-L1-1-0.dll -> quarantine\API-MS-Win-Core-Heap-Obsolete-L1-1-0.dll.quarantined
+[2026-11-14 22:09:23] [КАРАНТИН] C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-interlocked-l1-1-0.dll -> quarantine\api-ms-win-core-interlocked-l1-1-0.dll.quarantined
+[2026-11-14 22:09:23] [КАРАНТИН] C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-io-l1-1-0.dll -> quarantine\api-ms-win-core-io-l1-1-0.dll.quarantined
+[2026-11-14 22:09:23] [КАРАНТИН] C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-io-l1-1-1.dll -> quarantine\api-ms-win-core-io-l1-1-1.dll.quarantined
+[2026-11-14 22:09:23] [КАРАНТИН] C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-kernel32-legacy-l1-1-0.dll -> quarantine\api-ms-win-core-kernel32-legacy-l1-1-0.dll.quarantined
+[2026-11-14 22:09:23] [КАРАНТИН] C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-kernel32-legacy-l1-1-1.dll -> quarantine\api-ms-win-core-kernel32-legacy-l1-1-1.dll.quarantined
+[2026-11-14 22:09:23] [КАРАНТИН] C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\API-MS-Win-Core-Kernel32-Private-L1-1-0.dll -> quarantine\API-MS-Win-Core-Kernel32-Private-L1-1-0.dll.quarantined
+[2026-11-14 22:09:23] [КАРАНТИН] C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\API-MS-Win-Core-Kernel32-Private-L1-1-1.dll -> quarantine\API-MS-Win-Core-Kernel32-Private-L1-1-1.dll.quarantined
+[2026-11-14 22:09:23] [КАРАНТИН] C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-libraryloader-l1-1-0.dll -> quarantine\api-ms-win-core-libraryloader-l1-1-0.dll.quarantined
+[2026-11-14 22:09:23] [КАРАНТИН] C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-libraryloader-l1-1-1.dll -> quarantine\api-ms-win-core-libraryloader-l1-1-1.dll.quarantined
+[2026-11-14 22:09:23] [КАРАНТИН] C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-localization-l1-2-0.dll -> quarantine\api-ms-win-core-localization-l1-2-0.dll.quarantined
+[2026-11-14 22:09:23] [КАРАНТИН] C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-localization-l1-2-1.dll -> quarantine\api-ms-win-core-localization-l1-2-1.dll.quarantined
+[2026-11-14 22:09:23] [КАРАНТИН] C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\API-MS-Win-core-localization-obsolete-l1-2-0.dll -> quarantine\API-MS-Win-core-localization-obsolete-l1-2-0.dll.quarantined
+[2026-11-14 22:09:23] [КАРАНТИН] C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-memory-l1-1-0.dll -> quarantine\api-ms-win-core-memory-l1-1-0.dll.quarantined
+[2026-11-14 22:09:23] [КАРАНТИН] C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-memory-l1-1-1.dll -> quarantine\api-ms-win-core-memory-l1-1-1.dll.quarantined
+[2026-11-14 22:09:23] [КАРАНТИН] C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-memory-l1-1-2.dll -> quarantine\api-ms-win-core-memory-l1-1-2.dll.quarantined
+[2026-11-14 22:09:23] [КАРАНТИН] C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-namedpipe-l1-1-0.dll -> quarantine\api-ms-win-core-namedpipe-l1-1-0.dll.quarantined
+[2026-11-14 22:09:23] [КАРАНТИН] C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-privateprofile-l1-1-0.dll -> quarantine\api-ms-win-core-privateprofile-l1-1-0.dll.quarantined
+[2026-11-14 22:09:23] [КАРАНТИН] C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-privateprofile-l1-1-1.dll -> quarantine\api-ms-win-core-privateprofile-l1-1-1.dll.quarantined
+[2026-11-14 22:09:23] [КАРАНТИН] C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-processenvironment-l1-1-0.dll -> quarantine\api-ms-win-core-processenvironment-l1-1-0.dll.quarantined
+[2026-11-14 22:09:23] [КАРАНТИН] C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-processenvironment-l1-2-0.dll -> quarantine\api-ms-win-core-processenvironment-l1-2-0.dll.quarantined
+[2026-11-14 22:09:23] [КАРАНТИН] C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-processthreads-l1-1-0.dll -> quarantine\api-ms-win-core-processthreads-l1-1-0.dll.quarantined
+[2026-11-14 22:09:23] [КАРАНТИН] C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-processthreads-l1-1-1.dll -> quarantine\api-ms-win-core-processthreads-l1-1-1.dll.quarantined
+[2026-11-14 22:09:23] [КАРАНТИН] C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-processthreads-l1-1-2.dll -> quarantine\api-ms-win-core-processthreads-l1-1-2.dll.quarantined
+[2026-11-14 22:09:23] [КАРАНТИН] C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-processtopology-obsolete-l1-1-0.dll -> quarantine\api-ms-win-core-processtopology-obsolete-l1-1-0.dll.quarantined
+[2026-11-14 22:09:23] [КАРАНТИН] C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-profile-l1-1-0.dll -> quarantine\api-ms-win-core-profile-l1-1-0.dll.quarantined
+[2026-11-14 22:09:23] [КАРАНТИН] C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-realtime-l1-1-0.dll -> quarantine\api-ms-win-core-realtime-l1-1-0.dll.quarantined
+[2026-11-14 22:09:23] [КАРАНТИН] C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-registry-l1-1-0.dll -> quarantine\api-ms-win-core-registry-l1-1-0.dll.quarantined
+[2026-11-14 22:09:23] [КАРАНТИН] C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-registry-l2-1-0.dll -> quarantine\api-ms-win-core-registry-l2-1-0.dll.quarantined
+[2026-11-14 22:09:23] [КАРАНТИН] C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-rtlsupport-l1-1-0.dll -> quarantine\api-ms-win-core-rtlsupport-l1-1-0.dll.quarantined
+[2026-11-14 22:09:23] [КАРАНТИН] C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-shlwapi-legacy-l1-1-0.dll -> quarantine\api-ms-win-core-shlwapi-legacy-l1-1-0.dll.quarantined
+[2026-11-14 22:09:23] [КАРАНТИН] C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-shlwapi-obsolete-l1-1-0.dll -> quarantine\api-ms-win-core-shlwapi-obsolete-l1-1-0.dll.quarantined
+[2026-11-14 22:09:23] [КАРАНТИН] C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-shutdown-l1-1-0.dll -> quarantine\api-ms-win-core-shutdown-l1-1-0.dll.quarantined
+[2026-11-14 22:09:23] [КАРАНТИН] C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-string-l1-1-0.dll -> quarantine\api-ms-win-core-string-l1-1-0.dll.quarantined
+[2026-11-14 22:09:23] [КАРАНТИН] C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\API-MS-Win-core-string-l2-1-0.dll -> quarantine\API-MS-Win-core-string-l2-1-0.dll.quarantined
+[2026-11-14 22:09:23] [КАРАНТИН] C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\API-MS-Win-core-string-obsolete-l1-1-0.dll -> quarantine\API-MS-Win-core-string-obsolete-l1-1-0.dll.quarantined
+[2026-11-14 22:09:23] [КАРАНТИН] C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-stringansi-l1-1-0.dll -> quarantine\api-ms-win-core-stringansi-l1-1-0.dll.quarantined
+[2026-11-14 22:09:23] [КАРАНТИН] C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-stringloader-l1-1-1.dll -> quarantine\api-ms-win-core-stringloader-l1-1-1.dll.quarantined
+[2026-11-14 22:09:23] [КАРАНТИН] C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-synch-l1-1-0.dll -> quarantine\api-ms-win-core-synch-l1-1-0.dll.quarantined
+[2026-11-14 22:09:23] [КАРАНТИН] C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-synch-l1-2-0.dll -> quarantine\api-ms-win-core-synch-l1-2-0.dll.quarantined
+[2026-11-14 22:09:23] [КАРАНТИН] C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-sysinfo-l1-1-0.dll -> quarantine\api-ms-win-core-sysinfo-l1-1-0.dll.quarantined
+[2026-11-14 22:09:23] [КАРАНТИН] C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-sysinfo-l1-2-0.dll -> quarantine\api-ms-win-core-sysinfo-l1-2-0.dll.quarantined
+[2026-11-14 22:09:23] [КАРАНТИН] C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-sysinfo-l1-2-1.dll -> quarantine\api-ms-win-core-sysinfo-l1-2-1.dll.quarantined
+[2026-11-14 22:09:23] [КАРАНТИН] C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-threadpool-l1-2-0.dll -> quarantine\api-ms-win-core-threadpool-l1-2-0.dll.quarantined
+[2026-11-14 22:09:23] [КАРАНТИН] C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-threadpool-legacy-l1-1-0.dll -> quarantine\api-ms-win-core-threadpool-legacy-l1-1-0.dll.quarantined
+[2026-11-14 22:09:23] [КАРАНТИН] C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-threadpool-private-l1-1-0.dll -> quarantine\api-ms-win-core-threadpool-private-l1-1-0.dll.quarantined
+[2026-11-14 22:09:23] [КАРАНТИН] C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-timezone-l1-1-0.dll -> quarantine\api-ms-win-core-timezone-l1-1-0.dll.quarantined
+[2026-11-14 22:09:23] [КАРАНТИН] C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-url-l1-1-0.dll -> quarantine\api-ms-win-core-url-l1-1-0.dll.quarantined
+[2026-11-14 22:09:23] [КАРАНТИН] C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-util-l1-1-0.dll -> quarantine\api-ms-win-core-util-l1-1-0.dll.quarantined
+[2026-11-14 22:09:23] [КАРАНТИН] C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-version-l1-1-0.dll -> quarantine\api-ms-win-core-version-l1-1-0.dll.quarantined
+[2026-11-14 22:09:24] [КАРАНТИН] C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-wow64-l1-1-0.dll -> quarantine\api-ms-win-core-wow64-l1-1-0.dll.quarantined
+[2026-11-14 22:09:24] [КАРАНТИН] C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-core-xstate-l1-1-0.dll -> quarantine\api-ms-win-core-xstate-l1-1-0.dll.quarantined
+[2026-11-14 22:09:24] [КАРАНТИН] C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\API-MS-Win-core-xstate-l2-1-0.dll -> quarantine\API-MS-Win-core-xstate-l2-1-0.dll.quarantined
+[2026-11-14 22:09:24] [КАРАНТИН] C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\API-MS-Win-devices-config-L1-1-0.dll -> quarantine\API-MS-Win-devices-config-L1-1-0.dll.quarantined
+[2026-11-14 22:09:24] [КАРАНТИН] C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\API-MS-Win-devices-config-L1-1-1.dll -> quarantine\API-MS-Win-devices-config-L1-1-1.dll.quarantined
+[2026-11-14 22:09:24] [КАРАНТИН] C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\API-MS-Win-Eventing-ClassicProvider-L1-1-0.dll -> quarantine\API-MS-Win-Eventing-ClassicProvider-L1-1-0.dll.quarantined
+[2026-11-14 22:09:24] [КАРАНТИН] C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-eventing-consumer-l1-1-0.dll -> quarantine\api-ms-win-eventing-consumer-l1-1-0.dll.quarantined
+[2026-11-14 22:09:24] [КАРАНТИН] C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\API-MS-Win-Eventing-Controller-L1-1-0.dll -> quarantine\API-MS-Win-Eventing-Controller-L1-1-0.dll.quarantined
+[2026-11-14 22:09:24] [КАРАНТИН] C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\API-MS-Win-Eventing-Legacy-L1-1-0.dll -> quarantine\API-MS-Win-Eventing-Legacy-L1-1-0.dll.quarantined
+[2026-11-14 22:09:24] [КАРАНТИН] C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\API-MS-Win-Eventing-Provider-L1-1-0.dll -> quarantine\API-MS-Win-Eventing-Provider-L1-1-0.dll.quarantined
+[2026-11-14 22:09:24] [КАРАНТИН] C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\API-MS-Win-EventLog-Legacy-L1-1-0.dll -> quarantine\API-MS-Win-EventLog-Legacy-L1-1-0.dll.quarantined
+[2026-11-14 22:09:24] [КАРАНТИН] C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-security-cryptoapi-l1-1-0.dll -> quarantine\api-ms-win-security-cryptoapi-l1-1-0.dll.quarantined
+[2026-11-14 22:09:24] [КАРАНТИН] C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\API-MS-Win-Security-Lsalookup-L2-1-0.dll -> quarantine\API-MS-Win-Security-Lsalookup-L2-1-0.dll.quarantined
+[2026-11-14 22:09:24] [КАРАНТИН] C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\API-MS-Win-Security-Lsalookup-L2-1-1.dll -> quarantine\API-MS-Win-Security-Lsalookup-L2-1-1.dll.quarantined
+[2026-11-14 22:09:24] [КАРАНТИН] C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\API-MS-Win-security-lsapolicy-l1-1-0.dll -> quarantine\API-MS-Win-security-lsapolicy-l1-1-0.dll.quarantined
+[2026-11-14 22:09:24] [КАРАНТИН] C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\API-MS-Win-security-provider-L1-1-0.dll -> quarantine\API-MS-Win-security-provider-L1-1-0.dll.quarantined
+[2026-11-14 22:09:24] [КАРАНТИН] C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-security-sddl-l1-1-0.dll -> quarantine\api-ms-win-security-sddl-l1-1-0.dll.quarantined
+[2026-11-14 22:09:24] [КАРАНТИН] C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-service-core-l1-1-0.dll -> quarantine\api-ms-win-service-core-l1-1-0.dll.quarantined
+[2026-11-14 22:09:24] [КАРАНТИН] C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-service-core-l1-1-1.dll -> quarantine\api-ms-win-service-core-l1-1-1.dll.quarantined
+[2026-11-14 22:09:24] [КАРАНТИН] C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-service-management-l1-1-0.dll -> quarantine\api-ms-win-service-management-l1-1-0.dll.quarantined
+[2026-11-14 22:09:24] [КАРАНТИН] C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-service-management-l2-1-0.dll -> quarantine\api-ms-win-service-management-l2-1-0.dll.quarantined
+[2026-11-14 22:09:24] [КАРАНТИН] C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-service-private-l1-1-0.dll -> quarantine\api-ms-win-service-private-l1-1-0.dll.quarantined
+[2026-11-14 22:09:24] [КАРАНТИН] C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-service-private-l1-1-1.dll -> quarantine\api-ms-win-service-private-l1-1-1.dll.quarantined
+[2026-11-14 22:09:24] [КАРАНТИН] C:\Users\8ABF~1\AppData\Local\Temp\CFB77C11-9EF8-466E-B3BE-0B46E32DC999\api-ms-win-service-winsvc-l1-1-0.dll -> quarantine\api-ms-win-service-winsvc-l1-1-0.dll.quarantined
+[2026-11-14 22:09:24] [КАРАНТИН] C:\Users\8ABF~1\AppData\Local\Temp\Millida Launcher-2.2.0-updater-6oJsuV\Millida Launcher-2.2.0-installer.exe -> quarantine\Millida Launcher-2.2.0-installer.exe.quarantined
+[2026-11-14 22:11:36] [ПАТРУЛЬ] Запущен
+[2026-11-14 22:12:44] Сканирование: C:\Users\яна\Downloads
+[2026-11-14 22:12:46] [!] YARA C:\Users\8ABF~1\AppData\Local\Temp\av_tmp_1794669165_Newtonsoft.Json.dll
+[2026-11-14 22:12:47] [?] C:\Users\8ABF~1\AppData\Local\Temp\av_tmp_1794669167_FileSaver.js
+[2026-11-14 22:12:51] Сканирование: C:\Users\яна\Desktop
+[2026-11-14 22:14:37] Готово. Проверено: 1230, найдено: 2
+[2026-11-14 22:14:37] [!] [WinError 2] Не удается найти указанный файл
+[2026-11-14 22:14:37] [!] [WinError 2] Не удается найти указанный файл
+[2026-11-14 22:14:42] Сканирование: C:\Users\яна\Downloads
+[2026-11-14 22:14:46] [!] YARA C:\Users\8ABF~1\AppData\Local\Temp\av_tmp_1794669285_Newtonsoft.Json.dll
+[2026-11-14 22:14:46] Сканирование: C:\Users\яна\Desktop
+[2026-11-14 22:14:47] [?] C:\Users\8ABF~1\AppData\Local\Temp\av_tmp_1794669287_FileSaver.js
+[2026-11-14 22:14:52] Готово. Проверено: 31, найдено: 1
+[2026-11-14 22:14:52] [!] [WinError 2] Не удается найти указанный файл
+[2026-11-14 22:17:43] Готово. Проверено: 1263, найдено: 1
+[2026-11-14 22:17:43] [!] [WinError 2] Не удается найти указанный файл
+[2026-11-14 22:36:55] [ПАТРУЛЬ] Запущен
+[2026-11-14 22:42:26] [ПАТРУЛЬ] Запущен
+[2026-11-14 22:42:46] Сканирование: C:\Users\яна\Downloads
+[2026-11-14 22:42:49] [!] YARA C:\Users\8ABF~1\AppData\Local\Temp\av_tmp_1794670969_Newtonsoft.Json.dll
+[2026-11-14 22:42:50] [?] C:\Users\8ABF~1\AppData\Local\Temp\av_tmp_1794670970_FileSaver.js
+[2026-11-14 22:42:54] Сканирование: C:\Users\яна\Desktop
+[2026-11-14 22:44:30] Сканирование: C:\Users\яна\Downloads
+[2026-11-14 22:44:34] [!] YARA C:\Users\8ABF~1\AppData\Local\Temp\av_tmp_1794671073_Newtonsoft.Json.dll
+[2026-11-14 22:44:35] [?] C:\Users\8ABF~1\AppData\Local\Temp\av_tmp_1794671075_FileSaver.js
+[2026-11-14 22:44:40] Сканирование: C:\Users\яна\Desktop
+[2026-11-14 22:46:16] Сканирование: C:\Users\8ABF~1\AppData\Local\Temp
+[2026-11-14 22:47:26] Готово. Проверено: 1843, найдено: 2
+[2026-11-14 22:47:26] [!] [WinError 2] Не удается найти указанный файл
+[2026-11-14 22:47:27] [!] [WinError 2] Не удается найти указанный файл
+[2026-11-14 22:48:40] Готово. Проверено: 1295, найдено: 2
+[2026-11-14 22:48:40] [!] [WinError 2] Не удается найти указанный файл
+[2026-11-14 22:48:40] [!] [WinError 2] Не удается найти указанный файл
+[2026-11-14 22:49:04] Сканирование: C:\Users\яна\Downloads
+[2026-11-14 22:49:07] [!] YARA C:\Users\8ABF~1\AppData\Local\Temp\av_tmp_1794671347_Newtonsoft.Json.dll
+[2026-11-14 22:49:08] [?] C:\Users\8ABF~1\AppData\Local\Temp\av_tmp_1794671348_FileSaver.js
+[2026-11-14 22:49:14] Сканирование: C:\Users\яна\Desktop
+[2026-11-14 22:51:44] Готово. Проверено: 1297, найдено: 2
+[2026-11-14 22:51:45] [!] [WinError 2] Не удается найти указанный файл
+[2026-11-14 22:51:45] [!] [WinError 2] Не удается найти указанный файл
+[2026-11-14 23:08:40] [ПАТРУЛЬ] Запущен
+[2026-11-15 10:41:33] [ПАТРУЛЬ] Запущен
+[2026-11-15 10:52:39] [ПАТРУЛЬ] Запущен
+[2026-11-15 11:07:14] [ПАТРУЛЬ] Запущен
+[2026-11-15 11:07:44] Сканирование: C:\Users\яна\Downloads
+[2026-11-15 11:07:49] Сканирование: C:\Users\яна\Downloads
+[2026-11-15 11:07:53] Сканирование: C:\Users\яна\Desktop
+[2026-11-15 11:07:53] Сканирование: C:\Users\яна\Desktop
+[2026-11-15 11:11:58] Сканирование: C:\Users\8ABF~1\AppData\Local\Temp
+[2026-11-15 11:11:58] Готово. Проверено: 1297, найдено: 0
+[2026-11-15 11:12:59] Готово. Проверено: 2506, найдено: 0
+[2026-11-15 11:20:44] [ПАТРУЛЬ] Запущен

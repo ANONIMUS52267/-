@@ -1,0 +1,11 @@
+quarantine/  
+build/  
+dist/  
+*.exe  
+*.dll  
+*.pdf  
+*.json  
+*.log  
+*.csv  
+*.pyc  
+__pycache__/  
